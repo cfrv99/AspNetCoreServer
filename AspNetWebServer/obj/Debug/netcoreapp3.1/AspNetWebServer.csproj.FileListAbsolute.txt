@@ -1,0 +1,15 @@
+C:\Users\Murad\source\repos\AspNetWebServer\AspNetWebServer\bin\Debug\netcoreapp3.1\AspNetWebServer.exe
+C:\Users\Murad\source\repos\AspNetWebServer\AspNetWebServer\bin\Debug\netcoreapp3.1\AspNetWebServer.deps.json
+C:\Users\Murad\source\repos\AspNetWebServer\AspNetWebServer\bin\Debug\netcoreapp3.1\AspNetWebServer.runtimeconfig.json
+C:\Users\Murad\source\repos\AspNetWebServer\AspNetWebServer\bin\Debug\netcoreapp3.1\AspNetWebServer.runtimeconfig.dev.json
+C:\Users\Murad\source\repos\AspNetWebServer\AspNetWebServer\bin\Debug\netcoreapp3.1\AspNetWebServer.dll
+C:\Users\Murad\source\repos\AspNetWebServer\AspNetWebServer\bin\Debug\netcoreapp3.1\AspNetWebServer.pdb
+C:\Users\Murad\source\repos\AspNetWebServer\AspNetWebServer\obj\Debug\netcoreapp3.1\AspNetWebServer.csprojAssemblyReference.cache
+C:\Users\Murad\source\repos\AspNetWebServer\AspNetWebServer\obj\Debug\netcoreapp3.1\AspNetWebServer.csproj.CoreCompileInputs.cache
+C:\Users\Murad\source\repos\AspNetWebServer\AspNetWebServer\obj\Debug\netcoreapp3.1\AspNetWebServer.AssemblyInfoInputs.cache
+C:\Users\Murad\source\repos\AspNetWebServer\AspNetWebServer\obj\Debug\netcoreapp3.1\AspNetWebServer.AssemblyInfo.cs
+C:\Users\Murad\source\repos\AspNetWebServer\AspNetWebServer\obj\Debug\netcoreapp3.1\AspNetWebServer.dll
+C:\Users\Murad\source\repos\AspNetWebServer\AspNetWebServer\obj\Debug\netcoreapp3.1\AspNetWebServer.pdb
+C:\Users\Murad\source\repos\AspNetWebServer\AspNetWebServer\obj\Debug\netcoreapp3.1\AspNetWebServer.genruntimeconfig.cache
+C:\Users\Murad\source\repos\AspNetWebServer\AspNetWebServer\bin\Debug\netcoreapp3.1\wwwroot\index.html
+C:\Users\Murad\source\repos\AspNetWebServer\AspNetWebServer\bin\Debug\netcoreapp3.1\wwwroot\error.html
